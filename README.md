@@ -9,7 +9,7 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="asp logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="dart logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="2" />

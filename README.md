@@ -43,8 +43,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="50" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="80" height="50" alt="medium logo"  />
+  <img src="https://www.linkedin.com/in/ozanyaprak/" width="80" height="50" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/ozanyaprak/" width="80" height="50" alt="medium logo"  />
 </div>
 
 ###

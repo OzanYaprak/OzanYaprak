@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href="https://github.com/OzanYaprak" width="80" height="50" alt="linkedin logo"  />
+  <a href="https://github.com/OzanYaprak"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="50" alt="linkedin logo"  /></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="80" height="50" alt="medium logo"  />
 </div>
 

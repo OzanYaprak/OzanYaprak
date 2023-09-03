@@ -43,9 +43,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ozanyaprak/" target="_blank" > <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="50" alt="linkedin logo"  /> </a>
-  
-  <a href="https://www.linkedin.com/in/ozanyaprak/" target="_blank" > <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="80" height="50" alt="medium logo"  /> </a>
+  <a href="https://www.linkedin.com/in/ozanyaprak/" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="50" alt="linkedin logo" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/ozanyaprak/" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="80" height="50" alt="medium logo"  /></a>
 </div>
 
 ###
